@@ -1,0 +1,5 @@
+[2025-10-31 13:32:38] ReadAllCustomers() executed
+[2025-10-31 14:43:39] ReadAllCustomers() executed
+[2025-10-31 14:44:16] ReadAllCustomers() executed
+[2025-10-31 14:44:19] CreateCustomer(Dheeraj , sai) executed
+[2025-11-11 21:36:22] ERROR: MySQL connection failed — 1045 (28000): Access denied for user 'app_admin'@'localhost' (using password: YES)
